@@ -539,7 +539,7 @@ nMappedDim25 = 0;
 nMappedDim26 = 0;
 nMappedDim27 = 0;
 
-### Determine dimensions in target cube - we need to know this to test the cell type before loading ###
+### Determine dimensions in target cube - we need to know this to test the cell type before loading. ###
 sDim1 = TabDim( pCube, 1 );
 sDim2 = TabDim( pCube, 2 );
 sDim3 = TabDim( pCube, 3 );
